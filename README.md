@@ -55,4 +55,4 @@ Avant de pouvoir utiliser l'application, vous devez installer certains outils et
 
 
 # Ce projet est à des fins éducatives uniquement.  
-# L'utilisation de cet outil pour accéder de manière non autorisée à des systèmes ou pour toute activité illégale est strictement interdite. Nous vous encourageons à utiliser cet outil dans un environnement contrôlé, tel qu'un laboratoire ou un réseau privé, et à respecter les lois et régulations en vigueur dans votre pays. 
+# L'utilisation de cet outil pour accéder de manière non autorisée à des systèmes ou pour toute activité illégale est strictement interdite. je vous encourage à utiliser cet outil dans un environnement contrôlé, tel qu'un laboratoire ou un réseau privé, et à respecter les lois et régulations en vigueur dans votre pays. 
